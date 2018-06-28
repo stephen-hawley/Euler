@@ -504,6 +504,8 @@ public postfix func ′′′(function: @escaping(Double) -> (Double)) -> (Doubl
     return ((function′)′)′
 }
 
+// sdh - not sure how to best represent these in Swift 4 syntax
+
 // MARK: Nth Derivative
 
 //infix operator ′
